@@ -4,7 +4,7 @@ public class lab1 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		//gg+gg
+		//gg+ggtgtgtgtgtg
 	}
 
 }
